@@ -1,0 +1,226 @@
+[
+  {
+    "id": "BNU-CA-001",
+    "name": "下眼线",
+    "romanizedName": "XIAYANXIAN",
+    "slug": "xiayanxian",
+    "cover": "assets/images/cats/xiayanxian/cover.jpg",
+    "photos": [
+      "assets/images/cats/xiayanxian/photo-02.jpg",
+      "assets/images/cats/xiayanxian/photo-03.jpg"
+    ],
+    "age": "1岁",
+    "sex": "母",
+    "neutered": "是",
+    "personality": "怕人",
+    "description": "25年11月，一只花脸的小小咪横空出世，入住了我们在学校小花园里刚搭的猫窝，很幸运咪能选择我们的小窝，那时候感觉它也就两个月左右大。小脸上最具特色的就是自带白色下眼线（还是个美妆小咪），遂名为“下眼线”。刚来的前几个月总是跟着对眼橘混吃混喝，形影不离，从小就展现出比胖橘还爱吃的特质。后面下眼线又赖着校园人气王“白虎”，摸白虎的时候，下眼线从一脸震惊到可以微微靠近，大概它也渴望和人一起玩，由此推断如果家养稍加爱抚即可立马收入怀中。",
+    "ageEn": "1 year",
+    "personalityEn": "Wary of people",
+    "descriptionEn": "In November 2025, a tiny calico appeared and moved into a shelter we had just built in the campus garden. She looked about two months old. The white markings beneath her eyes inspired the name Xiayanxian. For her first few months she followed a cross-eyed orange cat everywhere and showed an extraordinary appetite. Later she began staying close to Baihu. Watching Baihu enjoy attention helped her gradually approach people, suggesting that patient affection could help her adapt well to a home.",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-002",
+    "name": "八戒",
+    "romanizedName": "BAJIE",
+    "slug": "bajie",
+    "cover": "assets/images/cats/bajie/cover.jpg",
+    "photos": [
+      "assets/images/cats/bajie/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "较不怕人",
+    "description": "3月的一天下午八戒突然出现在投喂点，呆呆地守着水碗，人走近也不躲，但是太近会哈人。新来的可怜小猫，被大橘打被白虎揍，每天只能早上准时出现在投喂点饱餐一顿然后消失。没饭吃时会睡在猫屋上等待投喂，不愧是小奶牛蹿得是真高。",
+    "personalityEn": "Relatively comfortable around people",
+    "descriptionEn": "Bajie suddenly appeared at the feeding point one March afternoon, quietly guarding the water bowl. He did not flee when people approached, although he would hiss if they came too close. As a newcomer he was often chased by the orange cat and Baihu, so he appeared early each morning for a full meal and then disappeared. When food was late, he waited on top of the cat shelter—an impressively agile little tuxedo cat.",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-003",
+    "name": "大耗子",
+    "romanizedName": "DAHAOZI",
+    "slug": "dahaozi",
+    "cover": "assets/images/cats/dahaozi/cover.jpg",
+    "photos": [
+      "assets/images/cats/dahaozi/photo-02.jpg",
+      "assets/images/cats/dahaozi/photo-03.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "未知",
+    "description": "“大耗子”是校园猫王“老黑”随从，发情期间尤其喜欢跟着“老黑”在校园四处游荡嚎叫，冬季也很喜欢去车库遛达，弄的车身都是猫爪印。在两位同学的耐心引诱下，它成功钻入转移布袋，让人拍手叫好。",
+    "personalityEn": "Unknown",
+    "descriptionEn": "Dahaozi is a follower of campus cat king Laohei. During mating season he often roamed the campus with Laohei, calling loudly. In winter he liked visiting the garage and leaving paw prints on cars. With patient guidance from two students, he finally climbed into a transfer bag for his trip to care.",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-004",
+    "name": "大黄尾巴",
+    "romanizedName": "DAHUANGWEIBA",
+    "slug": "dahuangweiba",
+    "cover": "assets/images/cats/dahuangweiba/cover.jpg",
+    "photos": [
+      "assets/images/cats/dahuangweiba/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "胆小，远离人群但爱攻击同类",
+    "description": "“大黄尾巴”食量颇大，身体强健有力，爱攻击同类",
+    "personalityEn": "Shy around people, but territorial toward other cats",
+    "descriptionEn": "Dahuangweiba has a large appetite and a strong build, and can be aggressive toward other cats.",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-005",
+    "name": "媒婆",
+    "romanizedName": "MEIPO",
+    "slug": "meipo",
+    "cover": "assets/images/cats/meipo/cover.jpg",
+    "photos": [
+      "assets/images/cats/meipo/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "母",
+    "neutered": "是",
+    "personality": "怕人",
+    "personalityEn": "Wary of people",
+    "relatedRecords": [
+      "POST-007"
+    ]
+  },
+  {
+    "id": "BNU-CA-006",
+    "name": "小梨",
+    "romanizedName": "XIAOLI",
+    "slug": "xiaoli",
+    "cover": "assets/images/cats/xiaoli/cover.jpg",
+    "photos": [
+      "assets/images/cats/xiaoli/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "胆小",
+    "description": "小梨是学校里里年纪偏大的一只流浪猫。刚开始见到它时，留着一副毛寸头，一直跟人保持安全距离，雌雄难辨，所以叫它高冷哥。后来它固定守在投喂点，还带着一只漂亮的小三花相伴。小三花被领养后，小梨四处寻找小三花，消失了好几天才重新回到投喂点",
+    "personalityEn": "Shy",
+    "descriptionEn": "Xiaoli is one of the older stray cats on campus. When first seen, he kept a careful distance and his sex was difficult to determine, earning him an early nickname meaning aloof older brother. He later settled at a regular feeding point with a beautiful calico companion. After she was adopted, Xiaoli searched around campus and disappeared for several days before returning.",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-007",
+    "name": "小白",
+    "romanizedName": "XIAOBAI",
+    "slug": "xiaobai",
+    "cover": "assets/images/cats/xiaobai/cover.jpg",
+    "photos": [
+      "assets/images/cats/xiaobai/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "较胆小，亲人",
+    "personalityEn": "Shy but friendly",
+    "relatedRecords": [
+      "POST-001",
+      "POST-002",
+      "POST-006",
+      "POST-008"
+    ]
+  },
+  {
+    "id": "BNU-CA-008",
+    "name": "小虎",
+    "romanizedName": "XIAOHU",
+    "slug": "xiaohu",
+    "cover": "assets/images/cats/xiaohu/cover.jpg",
+    "photos": [
+      "assets/images/cats/xiaohu/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "较胆小",
+    "personalityEn": "Rather shy",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-009",
+    "name": "白虎",
+    "romanizedName": "BAIHU",
+    "slug": "baihu",
+    "cover": "assets/images/cats/baihu/cover.jpg",
+    "photos": [
+      "assets/images/cats/baihu/photo-02.jpg",
+      "assets/images/cats/baihu/photo-03.jpg",
+      "assets/images/cats/baihu/photo-04.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "粘人，爱吃东西，学校里最亲人的猫咪",
+    "personalityEn": "Affectionate, food-loving, and one of the friendliest cats on campus",
+    "friends": [
+      "媒婆"
+    ],
+    "relatedRecords": [
+      "POST-003"
+    ]
+  },
+  {
+    "id": "BNU-CA-010",
+    "name": "老黑",
+    "romanizedName": "LAOHEI",
+    "slug": "laohei",
+    "cover": "assets/images/cats/laohei/cover.jpg",
+    "photos": [
+      "assets/images/cats/laohei/photo-02.jpg",
+      "assets/images/cats/laohei/photo-03.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "未知",
+    "personalityEn": "Unknown",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-011",
+    "name": "蝙蝠侠",
+    "romanizedName": "BIANFUXIA",
+    "slug": "bianfuxia",
+    "cover": "assets/images/cats/bianfuxia/cover.jpg",
+    "photos": [
+      "assets/images/cats/bianfuxia/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "较胆小",
+    "description": "蝙蝠侠是学校里的大白咪，因为眼睛周围总有分泌物，加上性格胆小谨慎，平时很难拍到近照，远看着像戴面具的蝙蝠侠。",
+    "personalityEn": "Rather shy",
+    "descriptionEn": "Bianfuxia is a large white campus cat. Eye discharge and a cautious temperament make close-up photographs rare; from a distance, the markings around the eyes resemble a masked Batman.",
+    "relatedRecords": []
+  },
+  {
+    "id": "BNU-CA-012",
+    "name": "警长",
+    "romanizedName": "JINGZHANG",
+    "slug": "jingzhang",
+    "cover": "assets/images/cats/jingzhang/cover.jpg",
+    "photos": [
+      "assets/images/cats/jingzhang/photo-02.jpg"
+    ],
+    "age": "未知",
+    "sex": "公",
+    "neutered": "是",
+    "personality": "胆小",
+    "description": "这只黑白相间的小猫，大家都叫它“警长”。同学们也会开玩笑地说它是校园里着装最正式的猫。“警长”虽然名字起得很响亮，胆子却比较小，一点点风吹草动就会躲起来，常常神龙见首不见尾。",
+    "personalityEn": "Shy",
+    "descriptionEn": "This black-and-white cat is known as Jingzhang, or the Inspector. Students joke that he is the most formally dressed cat on campus. Despite the impressive name, he is timid and often disappears at the slightest disturbance.",
+    "relatedRecords": []
+  }
+]

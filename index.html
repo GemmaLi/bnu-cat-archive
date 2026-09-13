@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="北师大育荣校区校园猫的影像、档案与公开记录。">
+  <meta property="og:title" content="北师育荣猫咪档案">
+  <meta property="og:description" content="一套持续保存、浏览和查阅校园猫历史的数字档案。">
+  <meta property="og:image" content="./assets/images/hero.jpg">
+  <title>北师育荣猫咪档案</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#archive-index">跳到主要内容</a>
+  <header class="hero" id="top">
+    <img class="hero-image" src="./assets/images/hero.jpg" alt="一只校园猫在长椅上安静睡觉">
+    <div class="hero-shade" aria-hidden="true"></div>
+    <nav class="site-nav" aria-label="主导航">
+      <a class="wordmark" href="./index.html" aria-label="北师育荣猫咪档案首页">
+        <span data-zh="北师育荣猫咪档案" data-en="BNU CAT ARCHIVE">北师育荣猫咪档案</span>
+      </a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="打开导航">
+        <span></span><span></span>
+      </button>
+      <div class="nav-links" id="nav-links">
+        <a href="./cats.html" data-i18n="navArchive">档案</a>
+        <a href="./records.html" data-i18n="navRecords">公开记录</a>
+        <a href="./about.html" data-i18n="navAbout">关于</a>
+        <button class="language-toggle" type="button" aria-label="Switch to English">EN</button>
+      </div>
+    </nav>
+
+    <div class="hero-copy">
+      <h1 class="hero-title-zh" data-lang-only="zh">北师育荣<br>猫咪档案</h1>
+      <h1 class="hero-title-en" data-lang-only="en">BNU CAT<br>ARCHIVE</h1>
+    </div>
+  </header>
+
+  <main>
+    <section class="archive-section reveal" id="archive-index">
+      <div class="section-heading wrap">
+        <div>
+          <h2 data-zh="猫咪档案" data-en="ARCHIVE INDEX">猫咪档案</h2>
+        </div>
+        <a class="archive-all-link archive-heading-link" href="./cats.html"><span data-i18n="enterArchive">查看全部档案</span><b>→</b></a>
+      </div>
+      <div class="archive-rail" id="archive-rail" tabindex="0" aria-label="猫咪档案横向列表">
+        <div class="archive-track" id="archive-track" aria-live="polite">
+          <p class="loading-note">LOADING ARCHIVE…</p>
+        </div>
+      </div>
+      <div class="rail-meta wrap">
+        <span id="archive-count">共 12 份档案</span>
+        <span data-i18n="dragHint">拖动浏览 · 悬停暂停</span>
+      </div>
+    </section>
+
+    <section class="records-section reveal" id="public-records">
+      <div class="records-grid wrap">
+        <div class="records-title">
+          <h2 data-zh="公开记录" data-en="PUBLIC RECORDS">公开记录</h2>
+        </div>
+        <div class="home-record-browser">
+          <div class="home-record-list" id="record-list"><p class="loading-note inverse">LOADING RECORDS…</p></div>
+          <aside class="home-record-filters" aria-label="按类别筛选公开记录"><p data-zh="按类别筛选" data-en="FILTER / CATEGORY">按类别筛选</p><div id="home-record-filter-buttons"></div></aside>
+        </div>
+        <a class="text-link records-link" href="./records.html"><span data-i18n="viewAll">查看全部记录</span> →</a>
+      </div>
+    </section>
+
+    <section class="about-section reveal" id="about">
+      <div class="about-grid wrap">
+        <div>
+          <h2 data-zh="关于档案" data-en="ABOUT THE ARCHIVE">关于档案</h2>
+        </div>
+        <div class="about-copy">
+          <p class="lead" data-i18n="aboutLead">将散落在校园帖子、照片和同学记忆中的猫咪信息，整理成一套可以持续保存、浏览、关联和查阅的数字档案。</p>
+          <p data-i18n="aboutBody">档案以真实照片与公开记录为基础。每一个名字、日期和关联都来自现有资料；缺失的信息保持空白，等待未来被认真补充。</p>
+          <p class="contact-line"><strong data-zh="联系管理人员" data-en="CONTACT THE ARCHIVE">联系管理人员</strong><a href="tel:xxxxxxxx">xxxxxxxx</a></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div>
+        <strong data-zh="北师育荣猫咪档案" data-en="BNU CAT ARCHIVE">北师育荣猫咪档案</strong>
+      </div>
+      <p data-zh="校园猫数字档案" data-en="Campus Cat Digital Archive">校园猫数字档案</p>
+      <p class="footer-year">© 2026<br>YR CAMPUS</p>
+    </div>
+  </footer>
+
+  <noscript>请启用 JavaScript 以浏览档案索引。</noscript>
+  <script src="./assets/js/app.js" defer></script>
+</body>
+</html>

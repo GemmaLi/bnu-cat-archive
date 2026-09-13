@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="按类别查阅北师大校园猫公开记录。">
+  <title>公开记录 | 北师育荣猫咪档案</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body class="inner-page records-page">
+  <header class="inner-header navy-header">
+    <nav class="site-nav" aria-label="主导航">
+      <a class="wordmark" href="./index.html"><span data-zh="北师育荣猫咪档案" data-en="BNU CAT ARCHIVE">北师育荣猫咪档案</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="打开导航"><span></span><span></span></button>
+      <div class="nav-links" id="nav-links"><a href="./cats.html" data-i18n="navArchive">档案</a><a class="active" href="./records.html" data-i18n="navRecords">公开记录</a><a href="./about.html" data-i18n="navAbout">关于</a><button class="language-toggle" type="button" aria-label="Switch to English">EN</button></div>
+    </nav>
+    <div class="records-page-title wrap"><p data-zh="记录集合" data-en="COLLECTION / 02">记录集合</p><h1 data-zh="公开记录" data-en="PUBLIC RECORDS">公开记录</h1></div>
+  </header>
+  <main class="records-directory-page wrap">
+    <p class="directory-intro" data-zh="公开记录按发布日期排列。可从右侧选择全部记录或任一原始类别；每条记录保留发布人、正文与媒体，并与涉及的猫咪档案建立双向索引。" data-en="Public records are ordered by date and can be filtered by their original category. Each record preserves its author, text and media, with links to the relevant cat files.">公开记录按发布日期排列。可从右侧选择全部记录或任一原始类别；每条记录保留发布人、正文与媒体，并与涉及的猫咪档案建立双向索引。</p>
+    <div class="records-browser">
+      <div class="records-chronology" id="records-directory" aria-live="polite"><p class="loading-note">LOADING RECORDS…</p></div>
+      <aside class="record-filters" aria-label="按类别筛选公开记录">
+        <p data-zh="按类别筛选" data-en="FILTER / CATEGORY">按类别筛选</p>
+        <div id="record-filter-buttons"></div>
+      </aside>
+    </div>
+  </main>
+  <footer class="site-footer"><div class="wrap footer-grid"><div><strong data-zh="北师育荣猫咪档案" data-en="BNU CAT ARCHIVE">北师育荣猫咪档案</strong></div><p data-zh="校园猫数字档案" data-en="Campus Cat Digital Archive">校园猫数字档案</p><p class="footer-year">© 2026</p></div></footer>
+  <script src="./assets/js/common.js" defer></script><script src="./assets/js/records.js" defer></script>
+</body>
+</html>
